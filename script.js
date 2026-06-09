@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const database = firebase.database();
 
     // Razorpay Configuration
-    const RAZORPAY_KEY_ID = 'rzp_live_SmWZwsHa8MavN4';
+    const RAZORPAY_KEY_ID = 'rzp_live_SxYqdTv5gdmVtt';
 
     // Initialize Razorpay Payment Directly
     window.initRazorpay = function(amount, serviceName) {
